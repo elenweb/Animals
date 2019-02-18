@@ -10,7 +10,7 @@ public class Main3 {
         dog2.info();
         dog2.name = "Арчи";
         dog2.info();
-        Main.say2(dog1);
+       // Main.say2(dog1);
 
     }
 }
