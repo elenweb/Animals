@@ -39,8 +39,7 @@ public class Main {
 
 
         List a = new ArrayList<>();
-        a.add(dog);
-        a.add(dog1);
+         a.add(dog1);
         a.add(33);
         a.add("abc");
 

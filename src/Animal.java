@@ -19,5 +19,12 @@ public class Animal {
     public void say () {
         System.out.print("-");
     }
-}
 
+    public void myPet () {
+        System.out.print("Мой любимый " + name);
+    }
+
+    public String toString() {
+        return name;
+    }
+}
